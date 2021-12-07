@@ -1,6 +1,6 @@
 - Banaani
 - Päärynä
 - Talouspaperi
-- Tuc-keksejä
+- Dominokeksejä
 - Voi
 - Linssisipsi
